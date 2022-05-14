@@ -1,2 +1,2 @@
 # Data-Structures-Algorithms
-Projects involving Data Structures and Algorithms
+These projects were created for data structures and algorithms class.
